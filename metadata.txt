@@ -1,0 +1,16 @@
+[general]
+name=Gv3GEWRF
+version=0.0.1
+author=odycloud
+email=coder@odyhpc.com
+description=Plugin for pre- and post-processing, visualizing, and running simulations in WRF
+about=Gv3GEWRF
+
+homepage=https://odyhpc.com
+###repository=https://odyhpc.com
+###tracker=https://odyhpc.com
+
+tags=WRF, WPS, GIS, NetCDF, GRIB, NWP, weather, atmospheric science, atmospheric modelling, plotting
+icon=plugin/resources/QGIS_logo64.png
+
+qgisMinimumVersion=3.0
